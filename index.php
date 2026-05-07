@@ -1,3 +1,3 @@
 <?php 
-    echo "aula de git e GitHUb";
+    echo "aula de git e GitHUb depois do reset";
 ?>
