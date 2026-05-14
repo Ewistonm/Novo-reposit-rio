@@ -6,3 +6,4 @@
     echo "teste de comit 4";
     echo "teste de comit 5";
 ?>
+q
